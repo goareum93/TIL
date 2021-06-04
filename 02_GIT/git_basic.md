@@ -13,7 +13,7 @@ Git이란 소스코드를 효과적으로 관리하기 위해 개발된 '분산�
 ### 저장소 만들기
 
 ```
-$git init
+$ git init
 ```
 
 - git bash에 위와 같이 작성하면 해당 디렉토리에 불투명한 `.git`폴더가 생성되고 아래와 같이 `(master)`라고 표기된다.
@@ -36,8 +36,8 @@ $ ls -a
 git bash를 열어 아래와 같이 사용자 정보를 작성한다. 누가 작성한지 표시를 하기 위한 것이다.
 
 ```
-$git config --global user.name 'name'
-$git config --global user.email 'email@gmail.com'
+$ git config --global user.name 'name'
+$ git config --global user.email 'email@gmail.com'
 ```
 
 ### 
