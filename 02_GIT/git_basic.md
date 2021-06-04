@@ -319,27 +319,6 @@ $ touch .gitignore READ.md
 
   
 
-- branch 생성 병합 예시 그림
-
-![image-20210604130714644](git_basic.assets/image-20210604130714644.png)
-
-![image-20210604130721527](git_basic.assets/image-20210604130721527.png)
-
-![image-20210604130726392](git_basic.assets/image-20210604130726392.png)
-
-![image-20210604130730624](git_basic.assets/image-20210604130730624.png)
-
-![image-20210604130734461](git_basic.assets/image-20210604130734461.png)
-
-![image-20210604130738466](git_basic.assets/image-20210604130738466.png)
-
-![image-20210604130742914](git_basic.assets/image-20210604130742914.png)
-
-![image-20210604130747160](git_basic.assets/image-20210604130747160.png)
-
-​																			(source :  김형림님)
-
-
 
 ### Branch 충돌 해결
 
